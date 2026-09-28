@@ -1,0 +1,10 @@
+node_modules
+.next
+.pnpm-store
+*.log
+.env
+.env.local
+dist
+coverage
+.next
+src/db/migrations/*.snap
